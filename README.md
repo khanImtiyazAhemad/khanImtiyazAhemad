@@ -111,8 +111,8 @@ mantra:    "Clean architecture, scalable APIs, reliable infra."
 ## 🚀 Featured Projects
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
 #### 🌟 [nemr](https://github.com/khanImtiyazAhemad/nemr)
 > Django REST API · AWS EC2 · Celery · Redis · RabbitMQ
@@ -121,8 +121,8 @@ Production backend on Ubuntu (AWS EC2). Async task processing, AWS Secrets Manag
 
 `Python` `Django` `AWS` `Docker` `Poetry`
 
-    </td>
-    <td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
 #### 💼 [avaana-core-business](https://github.com/khanImtiyazAhemad/avaana-core-business)
 > Django · Stripe · Auth0 · OpenAI · Google Calendar
@@ -131,8 +131,10 @@ Full business backend with payments, auth, AI integrations, and calendar sync. M
 
 `Python` `Django` `Stripe` `Auth0` `OpenAI`
 
-    </td>
-    <td width="50%" valign="top">
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 #### 📦 [inventa](https://github.com/khanImtiyazAhemad/inventa)
 > Inventory & Business Management · Django · REST API
@@ -141,8 +143,8 @@ Backend for inventory tracking and operations. Product management, stock trackin
 
 `Python` `Django` `PostgreSQL` `REST API`
 
-    </td>
-    <td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
 #### 📧 [eml](https://github.com/khanImtiyazAhemad/eml)
 > Django · Email Processing · Automation
@@ -151,8 +153,8 @@ Service for parsing `.eml` email files with structured data extraction and autom
 
 `Python` `Django` `Email Parsing` `Automation`
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 ---
