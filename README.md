@@ -1,121 +1,193 @@
-<div align="center">
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Imtiyaz%20Ahemad%20Khan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20·%20Django%20·%20AWS%20·%20Python&descSize=18&descAlignY=60&animation=fadeIn" alt="banner" />
+</p>
 
-# 👋 Hi, I'm Imtiyaz
+<!-- Typing animation -->
+<p align="center">
+  <a href="https://github.com/khanImtiyazAhemad">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=Backend+Engineer+based+in+Delhi+%F0%9F%87%AE%F0%9F%87%B3;Building+scalable+APIs+with+Django+%2B+AWS;Async+workflows+with+Celery%2C+Redis+%26+RabbitMQ;Exploring+AI%2FML+and+LLM-powered+systems" alt="Typing SVG" />
+  </a>
+</p>
 
-### Backend Engineer · Django · AWS · Python
+<!-- Socials -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/imtiyaz-ahemad-khan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/imtiyaz_j_h"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://github.com/khanImtiyazAhemad"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Delhi%2C%20India-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Imtiyaz%20Ahemad%20Khan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imtiyaz-ahemad-khan)
-[![Twitter](https://img.shields.io/badge/Twitter-@imtiyaz__j__h-1D9BF0?style=flat-square&logo=x&logoColor=white)](https://x.com/imtiyaz_j_h)
-[![Location](https://img.shields.io/badge/Delhi%2C%20India-📍-FF6B35?style=flat-square)](https://en.wikipedia.org/wiki/Delhi)
-
-</div>
+<!-- Profile views + followers -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=khanImtiyazAhemad&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/khanImtiyazAhemad?label=Followers&style=for-the-badge&color=blue" alt="followers" />
+</p>
 
 ---
 
-## About Me
+## 🧠 About Me
 
-I'm a backend engineer based in Delhi, building production-grade systems with Django, AWS, and Python. I focus on clean architecture, scalable APIs, and reliable infrastructure.
+```yaml
+name:      Imtiyaz Ahemad Khan
+role:      Backend Engineer
+location:  Delhi, India 🇮🇳
+focus:     Django · AWS · Python · Distributed Systems
+building:  nemr — a Django REST API on AWS EC2 (Celery · Redis · RabbitMQ)
+learning:  AI/ML — Andrew Ng's ML Specialization · LLM APIs
+mantra:    "Clean architecture, scalable APIs, reliable infra."
+```
 
-- 🔭 Currently building **[nemr](https://github.com/khanImtiyazAhemad/nemr)** — a Django REST API deployed on AWS EC2 (Ubuntu), with Celery, Redis, and RabbitMQ
-- 🌱 Exploring **AI/ML** — working through Andrew Ng's courses and building with LLM APIs
-- ⚙️ Experienced with **Python 3.12 migrations**, Docker, Poetry, and AWS Secrets Manager
-- 📬 Reach me on [LinkedIn](https://www.linkedin.com/in/imtiyaz-ahemad-khan) or [Twitter](https://x.com/imtiyaz_j_h)
+- 🔭 Currently building **[nemr](https://github.com/khanImtiyazAhemad/nemr)** — Django REST API deployed on AWS EC2 with async task processing
+- ⚙️ Shipped production **Python 3.8 → 3.12 migrations** with full dependency upgrades
+- 🧩 Comfortable across the backend stack: REST APIs, auth, payments, queues, containers, secrets
+- 🌱 Exploring **AI/ML** and building with **LLM APIs** (OpenAI, Claude)
+- 📬 Open to backend, infrastructure, and AI-adjacent opportunities
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Arsenal
 
-**Backend**
+#### ⚡ Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-REST%20Framework-092E20?style=flat-square&logo=django&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-Task%20Queue-37814A?style=flat-square&logo=celery&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+#### 🗄️ Databases & Queues
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**Infrastructure & DevOps**
+#### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![Secrets Manager](https://img.shields.io/badge/Secrets%20Manager-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white)
 
-![AWS](https://img.shields.io/badge/AWS-EC2%20%7C%20Secrets%20Manager-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-Server-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-Cache%20%7C%20Broker-DC382D?style=flat-square&logo=redis&logoColor=white)
+#### 🔌 Integrations & AI
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Google Calendar](https://img.shields.io/badge/Google%20Calendar-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)
 
-**Integrations & Tools**
-
-![Stripe](https://img.shields.io/badge/Stripe-Payments-635BFF?style=flat-square&logo=stripe&logoColor=white)
-![Auth0](https://img.shields.io/badge/Auth0-Authentication-EB5424?style=flat-square&logo=auth0&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-API-412991?style=flat-square&logo=openai&logoColor=white)
-![Google Calendar](https://img.shields.io/badge/Google%20Calendar-API-4285F4?style=flat-square&logo=googlecalendar&logoColor=white)
-![Poetry](https://img.shields.io/badge/Poetry-Dependency%20Mgmt-60A5FA?style=flat-square&logo=poetry&logoColor=white)
+#### 🧰 Tooling
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Poetry](https://img.shields.io/badge/Poetry-60A5FA?style=for-the-badge&logo=poetry&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=khanImtiyazAhemad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanImtiyazAhemad&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=khanImtiyazAhemad&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanImtiyazAhemad&layout=compact&theme=default&hide_border=true&langs_count=6" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=khanImtiyazAhemad&theme=tokyonight&hide_border=true" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=khanImtiyazAhemad&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
+</p>
 
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=khanImtiyazAhemad&theme=default&hide_border=true)](https://git.io/streak-stats)
-
-</div>
+<!-- Contribution snake -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/khanImtiyazAhemad/khanImtiyazAhemad/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### [nemr](https://github.com/khanImtiyazAhemad/nemr)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+#### 🌟 [nemr](https://github.com/khanImtiyazAhemad/nemr)
 > Django REST API · AWS EC2 · Celery · Redis · RabbitMQ
 
-Production backend system deployed on Ubuntu (AWS EC2). Features async task processing with Celery and RabbitMQ, credential management via AWS Secrets Manager, and PDF generation with wkhtmltopdf in Docker.
+Production backend on Ubuntu (AWS EC2). Async task processing, AWS Secrets Manager for credentials, and PDF generation with wkhtmltopdf in Docker.
 
-`Python` `Django` `AWS` `Docker` `Poetry` `PostgreSQL`
+`Python` `Django` `AWS` `Docker` `Poetry`
 
----
+    </td>
+    <td width="50%" valign="top">
 
-### [avaana-core-business](https://github.com/khanImtiyazAhemad/avaana-core-business)
+#### 💼 [avaana-core-business](https://github.com/khanImtiyazAhemad/avaana-core-business)
 > Django · Stripe · Auth0 · OpenAI · Google Calendar
 
-Full-featured business backend with Stripe payment integration, Auth0 authentication, OpenAI API, and Google Calendar sync. Migrated from Python 3.8 → 3.12 with full dependency upgrades.
+Full business backend with payments, auth, AI integrations, and calendar sync. Migrated Python 3.8 → 3.12 with full dependency upgrades.
 
-`Python` `Django` `Stripe` `Auth0` `OpenAI` `Celery` `Redis`
+`Python` `Django` `Stripe` `Auth0` `OpenAI`
 
----
+    </td>
+    <td width="50%" valign="top">
 
-### [inventa](https://github.com/khanImtiyazAhemad/inventa)
+#### 📦 [inventa](https://github.com/khanImtiyazAhemad/inventa)
 > Inventory & Business Management · Django · REST API
 
-Backend system for inventory tracking and business operations. Built with Django REST Framework, featuring product management, stock tracking, and reporting capabilities.
+Backend for inventory tracking and operations. Product management, stock tracking, and reporting via Django REST Framework.
 
 `Python` `Django` `PostgreSQL` `REST API`
 
----
+    </td>
+    <td width="50%" valign="top">
 
-### [eml](https://github.com/khanImtiyazAhemad/eml)
+#### 📧 [eml](https://github.com/khanImtiyazAhemad/eml)
 > Django · Email Processing · Automation
 
-Backend service for parsing and processing `.eml` email files, with structured data extraction and automated workflows.
+Service for parsing `.eml` email files with structured data extraction and automated workflows.
 
 `Python` `Django` `Email Parsing` `Automation`
+
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🌱 Currently Learning
 
-- 🤖 Machine Learning fundamentals — Andrew Ng's ML Specialization (Coursera)
-- 🧠 Building with LLM APIs — OpenAI, Claude (Anthropic)
-- 📈 Exploring AI/ML career paths alongside backend engineering
+<table>
+  <tr>
+    <td>🤖</td><td><b>Machine Learning Fundamentals</b> — Andrew Ng's ML Specialization (Coursera)</td>
+  </tr>
+  <tr>
+    <td>🧠</td><td><b>LLM-powered systems</b> — OpenAI & Anthropic (Claude) APIs, agents, and RAG</td>
+  </tr>
+  <tr>
+    <td>📈</td><td><b>AI/ML career paths</b> alongside backend engineering</td>
+  </tr>
+</table>
 
 ---
 
-<div align="center">
+## 💬 Let's Connect
 
-*Open to interesting backend, infrastructure, or AI-adjacent opportunities.*
+<p align="center">
+  <i>Open to interesting <b>backend</b>, <b>infrastructure</b>, or <b>AI-adjacent</b> opportunities.</i>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imtiyaz-ahemad-khan)
+<p align="center">
+  <a href="https://www.linkedin.com/in/imtiyaz-ahemad-khan">
+    <img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/imtiyaz_j_h">
+    <img src="https://img.shields.io/badge/DM%20on-Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" />
+</p>
