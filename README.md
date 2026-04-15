@@ -16,7 +16,7 @@
 
 I'm a backend engineer based in Delhi, building production-grade systems with Django, AWS, and Python. I focus on clean architecture, scalable APIs, and reliable infrastructure.
 
-- 🔭 Currently building **[nemr](https://github.com/imtiyaz-j-h/nemr)** — a Django REST API deployed on AWS EC2 (Ubuntu), with Celery, Redis, and RabbitMQ
+- 🔭 Currently building **[nemr](https://github.com/khanImtiyazAhemad/nemr)** — a Django REST API deployed on AWS EC2 (Ubuntu), with Celery, Redis, and RabbitMQ
 - 🌱 Exploring **AI/ML** — working through Andrew Ng's courses and building with LLM APIs
 - ⚙️ Experienced with **Python 3.12 migrations**, Docker, Poetry, and AWS Secrets Manager
 - 📬 Reach me on [LinkedIn](https://www.linkedin.com/in/imtiyaz-ahemad-khan) or [Twitter](https://x.com/imtiyaz_j_h)
@@ -53,14 +53,14 @@ I'm a backend engineer based in Delhi, building production-grade systems with Dj
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=imtiyaz-j-h&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtiyaz-j-h&layout=compact&theme=default&hide_border=true&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=khanImtiyazAhemad&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanImtiyazAhemad&layout=compact&theme=default&hide_border=true&langs_count=6" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=imtiyaz-j-h&theme=default&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=khanImtiyazAhemad&theme=default&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -68,7 +68,7 @@ I'm a backend engineer based in Delhi, building production-grade systems with Dj
 
 ## 🚀 Featured Projects
 
-### [nemr](https://github.com/imtiyaz-j-h/nemr)
+### [nemr](https://github.com/khanImtiyazAhemad/nemr)
 > Django REST API · AWS EC2 · Celery · Redis · RabbitMQ
 
 Production backend system deployed on Ubuntu (AWS EC2). Features async task processing with Celery and RabbitMQ, credential management via AWS Secrets Manager, and PDF generation with wkhtmltopdf in Docker.
@@ -77,12 +77,30 @@ Production backend system deployed on Ubuntu (AWS EC2). Features async task proc
 
 ---
 
-### [avaana-core-business](https://github.com/imtiyaz-j-h/avaana-core-business)
+### [avaana-core-business](https://github.com/khanImtiyazAhemad/avaana-core-business)
 > Django · Stripe · Auth0 · OpenAI · Google Calendar
 
 Full-featured business backend with Stripe payment integration, Auth0 authentication, OpenAI API, and Google Calendar sync. Migrated from Python 3.8 → 3.12 with full dependency upgrades.
 
 `Python` `Django` `Stripe` `Auth0` `OpenAI` `Celery` `Redis`
+
+---
+
+### [inventa](https://github.com/khanImtiyazAhemad/inventa)
+> Inventory & Business Management · Django · REST API
+
+Backend system for inventory tracking and business operations. Built with Django REST Framework, featuring product management, stock tracking, and reporting capabilities.
+
+`Python` `Django` `PostgreSQL` `REST API`
+
+---
+
+### [eml](https://github.com/khanImtiyazAhemad/eml)
+> Django · Email Processing · Automation
+
+Backend service for parsing and processing `.eml` email files, with structured data extraction and automated workflows.
+
+`Python` `Django` `Email Parsing` `Automation`
 
 ---
 
